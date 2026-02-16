@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+openai
+streamlit-folium
+folium
+fpdf
+openpyxl
+watchdog
+datetime
+gspread
+oauth2client
