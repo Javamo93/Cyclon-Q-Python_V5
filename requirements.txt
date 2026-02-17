@@ -8,3 +8,4 @@ fpdf
 openpyxl
 gspread
 oauth2client
+watchdog==2.1.9; platform_system != "Linux"
